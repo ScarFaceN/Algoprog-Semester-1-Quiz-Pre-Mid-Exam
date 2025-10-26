@@ -41,8 +41,9 @@ int main(void) {
 }
 
 /*
-NOTE: This code was made after quiz, meaning I haven't had the chance to actually test it
+NOTE: This code was made after the quiz, meaning I haven't had the chance to actually test it
 with OJ systems. if you had the chance to check/use it with OJ and got "WRONG ANSWER", try changing
 the array size(e.g. 1005, 1505, etc.).
 */
+
 
