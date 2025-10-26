@@ -68,4 +68,5 @@ NOTE:
 This code was made after the quiz, so I haven't got the chance to 
 test it with the online judge. If this code got "WRONG" answer, possibly
 because I resets the odd count and odd_rage count (line 33-36).
+
 */
